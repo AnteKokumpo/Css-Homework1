@@ -1,0 +1,33 @@
+body{
+    background-color:#3F4E4F;
+    color:white;
+    list-style-position: inside
+}
+a {
+    color:#A27B5C;
+}
+h1 {
+    font-size: 40px;
+}
+.button{
+    font-size: 32px;
+    color:#F9CF93;
+    
+}
+
+.underline{
+    text-decoration: underline;
+}
+.onCenter { 
+    text-align: center;
+    margin: auto;
+    border: 3px saddlebrown;
+}
+
+p {
+    font-size: large;
+}
+
+ul {
+    font-size: 32px;
+}
